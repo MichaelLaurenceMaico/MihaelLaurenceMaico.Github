@@ -21,5 +21,5 @@
 <section id="contact-me">
     <h2>Contact Me</h2>
     <p>Email: <a href="mailto:your.email@example.com">laurencemaico231@gmail.com</a></p>
-   <p>GitHub: <a href="https://github.com/your-username" target="_blank"></a></p>
+   <p>GitHub: <a href="https://github.com/your-username" target="_blank">https://github.com/MichaelLaurenceMaico</a></p>
 </section>
