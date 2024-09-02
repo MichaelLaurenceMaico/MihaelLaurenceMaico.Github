@@ -1,4 +1,4 @@
-<h1>Michael Laurence Maico</h1><a href='https://
+<h1>Michael Laurence Maico</h1><a href='https://https://github.com/MichaelLaurenceMaico'>Programmer</a>
 
 
 <section id="about-me">
@@ -8,12 +8,15 @@
 
 <section id="projects">
     <h2>Projects</h2>
-    <div class="project">
-        <h3>(Collaborative Coding Platform)</h3>
+    <div class="project"> 
+        <h3>-Collaborative Coding Platform</h3>
         <p>This project is about Collaborative. It involves A web-based application called Collaborative Coding Platform is intended for real-time collaborative coding and code review. This project enables several developers to collaborate on the same codebase at once. It is built with WebRTC for fast video and audio conjunction and CodeMirror for code editing. Live code coordination, built-in chat, and Git version control integration are among the features..</p>
     </div>
     <div class="project">
-        <h3>Project Two</h3>
-        <p>This project is a [brief description]. It focuses on [technologies used or key features].</p>
+        <h3>-WeatherWatch: Real-Time Weather Dashboard</h3>
+        <p>Using the OpenWeather API, WeatherWatch is a dynamic, real-time weather dashboard that retrieves meteorological data. Users can examine the current weather and search for any city..</p>
     </div>
 </section>
+git add index.html
+git commit -m "modify project description"
+git push
