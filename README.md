@@ -1,4 +1,5 @@
-<h1>Michael Laurence Maico</h1>
+<h1>Michael Laurence Maico</h1><a href='https://
+
 
 <section id="about-me">
     <h2>About Me</h2>
@@ -8,7 +9,8 @@
 <section id="projects">
     <h2>Projects</h2>
     <div class="project">
-        -[asdasdasd]
+        <h3>(Collaborative Coding Platform)</h3>
+        <p>This project is about Collaborative. It involves A web-based application called Collaborative Coding Platform is intended for real-time collaborative coding and code review. This project enables several developers to collaborate on the same codebase at once. It is built with WebRTC for fast video and audio conjunction and CodeMirror for code editing. Live code coordination, built-in chat, and Git version control integration are among the features..</p>
     </div>
     <div class="project">
         <h3>Project Two</h3>
