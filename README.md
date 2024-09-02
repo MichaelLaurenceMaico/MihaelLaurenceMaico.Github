@@ -17,6 +17,9 @@
         <p>Using the OpenWeather API, WeatherWatch is a dynamic, real-time weather dashboard that retrieves meteorological data. Users can examine the current weather and search for any city..</p>
     </div>
 </section>
-git add index.html
-git commit -m "modify project description"
-git push
+
+<section id="contact-me">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:your.email@example.com">laurencemaico231@gmail.com</a></p>
+   <p>GitHub: <a href="https://github.com/your-username" target="_blank"></a></p>
+</section>
