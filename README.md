@@ -8,8 +8,7 @@
 <section id="projects">
     <h2>Projects</h2>
     <div class="project">
-        <h3>Project One</h3>
-        <p>This project is about  [Collaborative Coding Platform]. It involves A web-based application called Collaborative Coding Platform is intended for real-time collaborative coding and code review. This project enables several developers to collaborate on the same codebase at once. It is built with WebRTC for fast video and audio conjunction and CodeMirror for code editing. Live code coordination, built-in chat, and Git version control integration are among the features..</p>
+        -[asdasdasd]
     </div>
     <div class="project">
         <h3>Project Two</h3>
